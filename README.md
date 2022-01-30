@@ -1,4 +1,4 @@
-<h1 align="center"I'm Andre de Albuquerque</h1>
+<h1 align="center">I'm Andre de Albuquerque</h1>
 <h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andre-albuquerque&label=Profile%20views&color=0e75b6&style=flat" alt="andre-albuquerque" /> </p>
